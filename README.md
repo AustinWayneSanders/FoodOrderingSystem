@@ -103,3 +103,18 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ![image twelve](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image12.PNG)
 
+
+## Contributors and Tasks
+
+This was group project. The process consisted of full stack development tasks including: 
+* Setting up the development environment which involved creating an AWS postgreSQL database instance with database connections in the application, downloading and installing Angular, downloading and installing Maven along with configuring necessary dependencies in the POM.xml file: JUnit4, Log4J, & Springboot. 
+* Setting up project directory files and packages to conform to RESTful framework standards: JPA repository (DAOs), entities, controllers, untils, services. 
+* Configuring hibernate to communicate with the Amazon database instance, along with adding necessary annotations
+* Creating entity beans for each database table
+* Creating services with database processing methods (CRUD operations)
+* Creating controllers to call services and establish endpoints for front-end communication
+* Starting an Angular server with routing
+* Creating Angular components that correspon to the respective end-points, along with styling with CSS and Bootstrap. 
+
+## License
+This application does not use any license.
