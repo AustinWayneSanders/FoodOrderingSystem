@@ -40,7 +40,7 @@ To-do list:
 
 ## Getting Started
 
-Follow these steps to get started: 
+This project requires both Angular and Spring to be running simultaneously. 
 
 ## Development server
 
