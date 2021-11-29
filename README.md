@@ -106,7 +106,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Contributors and Tasks
 
-This was group project. The process consisted of full stack development tasks including: 
+This was group project. Austin Sanders worked primarily in the back-end with some front-end; Pryde Geh worked primarly with the front-end; Jessica Horn worked primarly with testing. 
+
+The process consisted of full stack development tasks including: 
+
 * Setting up the development environment which involved creating an AWS postgreSQL database instance with database connections in the application, downloading and installing Angular, downloading and installing Maven along with configuring necessary dependencies in the POM.xml file: JUnit4, Log4J, & Springboot. 
 * Setting up project directory files and packages to conform to RESTful framework standards: JPA repository (DAOs), entities, controllers, untils, services. 
 * Configuring hibernate to communicate with the Amazon database instance, along with adding necessary annotations
