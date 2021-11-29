@@ -5,6 +5,38 @@ online. Moreover, users can register, login/logout, view products, edit products
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
+## Technologies Used
+
+* Java Version 8
+* JavaScript 
+* HTML 
+* CSS 
+* JDBC 
+* Amazon RDS PostgreSQL
+* Javalin 
+* Maven 
+* JUnit4 
+* Log4J
+
+## Features
+
+List of features ready and TODOs for future development
+* Navigation between home page, employee list, create employee, expense reimbursement list, and create reimbursement
+* Create Reimbursement
+* Create Employee
+* View List of Reimbursements
+* View List of Employees
+* Delete Employee or Reimbursement
+* Update Employee or Reimbursement
+* Delete or approve Reimbursement
+
+To-do list: 
+* Work on creating a more secure login process, such as hiding url query param and add authentication guards 
+
+## Getting Started
+
+Follow these steps to get started: 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
