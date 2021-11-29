@@ -106,7 +106,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Contributors and Tasks
 
-This was group project. Austin Sanders worked primarily in the back-end with some front-end; Pryde Geh worked primarly with the front-end; Jessica Horn worked primarly with testing. 
+This was group project. Austin Sanders worked primarily in the back-end with some front-end; Pryde Geh (GitHub username: prydegeh) worked primarly with the front-end; Jessica Horn (GitHub username: jessphorn) worked primarly with testing. 
 
 The process consisted of full stack development tasks including: 
 
