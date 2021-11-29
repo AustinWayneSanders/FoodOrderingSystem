@@ -1,4 +1,4 @@
-# FoodSystem
+# Food Ordering System
 
 The Food Ordering System (FOS) will display food product offerings available within the local areas for consumers to view and place orders
 online. Moreover, users can register, login/logout, view products, edit products, and edit user profile. This project also includes testing with Junit, and Mokito. 
