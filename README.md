@@ -7,31 +7,36 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Technologies Used
 
-* Java Version 8
-* JavaScript 
-* HTML 
-* CSS 
-* JDBC 
-* Amazon RDS PostgreSQL
-* Javalin 
-* Maven 
-* JUnit4 
-* Log4J
+* Java
+* Angular 10 
+* Selenium 
+* API 
+* Spring Boot 
+* Spring Data 
+* AWS RDS 
+* Swagger 
+* Lombok 
+* REST 
+* JUnit 
+* Jasmine 
+* Protactor
 
 ## Features
 
 List of features ready and TODOs for future development
-* Navigation between home page, employee list, create employee, expense reimbursement list, and create reimbursement
-* Create Reimbursement
-* Create Employee
-* View List of Reimbursements
-* View List of Employees
-* Delete Employee or Reimbursement
-* Update Employee or Reimbursement
-* Delete or approve Reimbursement
+
+Ready: 
+* Navigation between: home page, login, view products, view customers, create new customer, edit customer, edit product, logout, and register 
+* CRUD operations with customers and products
+* Login/Logout
+* Authentication guards
+* View list of product offerings
 
 To-do list: 
-* Work on creating a more secure login process, such as hiding url query param and add authentication guards 
+* Completing the place order feature
+* Completeing the add to bag feature
+* Add session management
+* Work on creating a more secure login process, such as hiding url query param 
 
 ## Getting Started
 
