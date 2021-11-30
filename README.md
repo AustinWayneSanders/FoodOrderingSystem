@@ -40,7 +40,15 @@ To-do list:
 
 ## Getting Started
 
-This project requires both Angular and Spring to be running simultaneously. 
+This project requires both Angular and Spring Boot to be running simultaneously. 
+
+> To start the Spring Boot server to run the backend, right click on the project main class file, go to "Run As" then click "Spring Boot Application" as show below: 
+
+![](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image13.PNG) 
+
+> You should see this output in the console: 
+
+![](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image14.PNG) 
 
 ## Development server
 
