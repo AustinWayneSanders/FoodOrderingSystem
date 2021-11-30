@@ -50,9 +50,11 @@ This project requires both Angular and Spring Boot to be running simultaneously.
 
 ![](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image14.PNG) 
 
-## Development server
+You will need to run the following command in your terminal to configure Angular and import necessary dependency files: 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image15.PNG)
+
+Finally, type `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Usage
 
@@ -68,7 +70,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ![image two](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image2.PNG)
 
 > Managers are able to add new product offerings for the area. If the user clicks on "Create New Product" on the navigation panel at the 
-> top of the screen, he/she will be redirected to the add product page as shown in the next image below. 
+> top of the screen, he/she will be redirected to the add product page as shown in the next image below.
 
 ![image three](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image3.PNG)
 
