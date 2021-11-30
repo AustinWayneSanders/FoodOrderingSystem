@@ -33,8 +33,8 @@ Ready:
 * View list of product offerings
 
 To-do list: 
-* Completing the place order feature
-* Completeing the add to bag feature
+* Complete the "place order" feature
+* Complete the "add to bag" feature
 * Add session management
 * Work on creating a more secure login process, such as hiding url query param 
 
