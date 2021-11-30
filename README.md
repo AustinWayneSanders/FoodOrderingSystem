@@ -42,7 +42,7 @@ To-do list:
 
 This project requires both Angular and Spring Boot to be running simultaneously. 
 
-> To start the Spring Boot server to run the backend, right click on the project main class file, go to "Run As" then click "Spring Boot Application" as show below: 
+> To start the Spring Boot server that runs the backend, right click on the project main class file, go to "Run As" then click "Spring Boot Application" as show below: 
 
 ![](https://github.com/AustinWayneSanders/Project2FrontEnd/blob/main/Project2_Demo_Images/project2_demo_image13.PNG) 
 
@@ -116,7 +116,7 @@ Finally, type `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Contributors and Tasks
 
-This was group project. Austin Sanders worked primarily in the back-end with some front-end; Pryde Geh (GitHub username: prydegeh) worked primarly with the front-end; Jessica Horn (GitHub username: jessphorn) worked primarly with testing. 
+This was a group project. Austin Sanders worked primarily in the back-end with some front-end; Pryde Geh (GitHub username: prydegeh) worked primarily with the front-end; Jessica Horn (GitHub username: jessphorn) worked primarily with testing. 
 
 The process consisted of full stack development tasks including: 
 
